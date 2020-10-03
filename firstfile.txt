@@ -1,2 +1,13 @@
 File for first pull request.
-
+I am going to write a C program to print stars
+#include<stdio.h>
+int main()
+{
+int n;
+scanf("%d",&n);
+for(int i=0;i<n;i++)
+{
+print("*");
+//This will print stars and I am sure Ujjawal is gonna love it!
+}
+}
